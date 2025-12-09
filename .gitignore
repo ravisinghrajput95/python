@@ -1,0 +1,106 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+# Usually contains build metadata and logs
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Virtualenv (sometimes inside local folder)
+.python-version
+
+# PyCharm / VS Code / IDE settings
+.vscode/
+.idea/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Ruff / linting
+.ruff_cache/
+
+# Pyre type checker
+.pyre/
+
+# Django / Flask cache & logs
+*.log
+local_settings.py
+db.sqlite3
+instance/
+.webassets-cache
+
+# Spyder
+.spyderproject
+.spyproject
+
+# VS Code Python
+.python/
+
+# Pydantic / datamodel-codegen
+.datamodel-codegen/
+
+# Misc
+*.sqlite3
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
