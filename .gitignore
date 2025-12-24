@@ -104,3 +104,6 @@ instance/
 # OS files
 .DS_Store
 Thumbs.db
+
+file.txt
+logs.txt
